@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0aa324d-9d4e-4936-976b-5dd0278704c9</dc:identifier>
+        <dc:title>The Book Triumphant: Print in Transition in the Sixteenth and Seventeenth Centuries (Library of the Written Word 15)</dc:title>
+        <dc:creator opf:file-as="Walsby, Malcolm, , ," opf:role="aut">Malcolm Walsby</dc:creator>
+        <dc:creator opf:file-as="Walsby, Malcolm, , ," opf:role="aut">Graeme Kemp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:48+00:00</dc:date>
+        <dc:description>Publisher: Brill | ISBN: 9004207236 | 2011 | PDF | 395 pages | 9 MB
+
+Books printed in the fifteenth century have been the subject of much in-depth research. In contrast, the beginning of the sixteenth century has not attracted the same scholarly interest. This volume brings together studies that charter the development of printing and bookselling throughout Europe during the sixteenth and seventeenth centuries. It presents new research and analysis on the impact of the Reformation, on how texts were transmitted and on the complex relationships that affected the production and sale of books. The result is a wide-ranging reappraisal of a vital period in the history of the printed book.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec111670d00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Malcolm Walsby&quot;: &quot;&quot;, &quot;Graeme Kemp&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:13.542884+00:00" name="calibre:timestamp"/>
+        <meta content="Book Triumphant: Print in Transition in the Sixteenth and Seventeenth Centuries (Library of the Written Word 15), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

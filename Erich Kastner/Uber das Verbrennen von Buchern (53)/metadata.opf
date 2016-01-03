@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52f357c2-45a6-4e17-bc0a-1a6af81ab9ee</dc:identifier>
+        <dc:title>Über das Verbrennen von Büchern</dc:title>
+        <dc:creator opf:file-as="Kästner, Erich, , ," opf:role="aut">Erich Kästner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:20:05+00:00</dc:date>
+        <dc:description>Vor 80 Jahren, am 10. Mai 1933, wurden in Berlin unter der Aufsicht von Joseph Goebbels die Werke von zahlreichen deutschen Autoren ins Feuer geworfen. Nur ein einziger dieser Autoren war dabei persönlich anwesend. Es war Erich Kästner. Erich Kästner ist doppelter Kronzeuge der Schandtat des Bücherverbrennens: In der Nacht des 10. Mai 1933 hat er auf dem von Flammen und Scheinwerfern taghell erleuchteten Berliner Opernplatz mitansehen müssen, wie seine Bücher ins Feuer geworfen wurden – um 1965 zu erleben, dass in Düsseldorf der 'Bund Entschiedener Christen' abermals seine Werke verbrannte, unter Aufsicht der Polizei und begleitet von der Presse. Über das Verbrennen von Büchern versammelt erstmals vier Texte von Erich Kästner, in denen er erzählt, was 1933 – und danach wieder – geschah, wie es geschah und warum es geschah. Dieses Buch ist nicht nur ein erschütterndes Zeugnis, sondern eine Warnung und Mahnung für alle Zeit.</dc:description>
+        <dc:identifier opf:scheme="ARG">5662b05a9ff37c05dafd54ec</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Erich Kästner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:16.946961+00:00" name="calibre:timestamp"/>
+        <meta content="Über das Verbrennen von Büchern" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

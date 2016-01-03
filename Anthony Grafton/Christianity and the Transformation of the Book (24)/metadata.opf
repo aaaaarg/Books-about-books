@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b70c4fe-3f41-42a3-a70d-bf402f46c4da</dc:identifier>
+        <dc:title>Christianity and the Transformation of the Book</dc:title>
+        <dc:creator opf:file-as="Grafton, Anthony, , ," opf:role="aut">Anthony Grafton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:36+00:00</dc:date>
+        <dc:description>When early Christians began to study the Bible, and to write their own history and that of the Jews whom they claimed to supersede, they used scholarly methods invented by the librarians and literary critics of Hellenistic Alexandria. But Origen and Eusebius, two scholars of late Roman Caesarea, did far more. Both produced new kinds of books, in which parallel columns made possible critical comparisons previously unenvisioned, whether between biblical texts or between national histories. Eusebius went even farther, creating new research tools, new forms of history and polemic, and a new kind of library to support both research and book production.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec111eb0c00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Anthony Grafton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:13.322298+00:00" name="calibre:timestamp"/>
+        <meta content="Christianity and the Transformation of the Book" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

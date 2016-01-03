@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f6fbecc-6b77-4aaf-89b2-f0129cc7512d</dc:identifier>
+        <dc:title>Publishing in the First World War: Essays in Book History</dc:title>
+        <dc:creator opf:file-as="Towheed, Mary, Hammond and Shafquat, ," opf:role="aut">Mary Hammond</dc:creator>
+        <dc:creator opf:file-as="Towheed, Mary, Hammond and Shafquat, ," opf:role="aut">Shafquat Towheed</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:49+00:00</dc:date>
+        <dc:description>Publisher Palgrave Macmillan | ISBN: 0230500765 | edition 2007 | PDF | 248 pages | 2,49 Mb
+
+The twelve essays in this book explore in depth for the first time the publishing and reading practices which were formed and changed by the First World War. Ranging from an exploration of British and Australian trench journals and the reading practices of Indian soldiers to the impact of war on the literary figures of the home front in Britain, these essays provide crucial new historical information about the production, circulation and reception of reading matter during a period of international crisis.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec111640d00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Shafquat Towheed&quot;: &quot;&quot;, &quot;Mary Hammond&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:16.589911+00:00" name="calibre:timestamp"/>
+        <meta content="Publishing in the First World War: Essays in Book History" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

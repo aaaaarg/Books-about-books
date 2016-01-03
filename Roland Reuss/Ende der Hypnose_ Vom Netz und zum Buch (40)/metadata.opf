@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89476c39-e09c-4f35-9a79-50369b288ad3</dc:identifier>
+        <dc:title>Ende der Hypnose: Vom Netz und zum Buch</dc:title>
+        <dc:creator opf:file-as="Reuss, Roland, , ," opf:role="aut">Roland Reuss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:28+00:00</dc:date>
+        <dc:description>Wer sich ihr zu entwinden versucht und Kritik am fallout der Digitalisierung übt, wird schnell als konservativ denunziert – obwohl allein Kritik so etwas leisten könnte wie eine Überschreitung des Rahmens, der von den zunehmend monopolistischer agierenden Großkonzernen wie Google, Apple, Microsoft et al. vorgegeben wird. Deren Interessen spiegeln sich im manipulierten Bewußtsein einer zutiefst verunsicherten Öffentlichkeit, die sich mehr oder weniger bereitwillig über das Medium ausbeuten läßt. Das Einverständnis mit der immer mehr alle Kreativität erstickenden Entwicklung wird als ›alternativlos‹ verstanden. Die Analysen von »Ende der Hypnose« wenden sich gegen die weitverbreitete Komplizenschaft mit den technokratischen Grundzügen des Zeitalters. Sie versuchen, einen nach vorne gewandten Begriff von Kritik zu gewinnen, der die Gegenwart an ihren eigenen Ansprüchen auf Freiheit, individuelle Entfaltung und Authentizität mißt. Dem Buch als materiellem, dreidimensionalem Objekt kommt dabei eine ausgezeichnete Bedeutung zu: als Aufmerksamkeit sammelnder Ort der Reflexion, als zentrale auratische Gegenmacht gegenüber den konformistischen, zerstreuenden und entindividualisierenden digitalen Techniken. Die in »Ende der Hypnose« vorgetragene Kritik erstreckt sich auf Phänomene wie die freiwillige Unterwerfung unter die allgegenwärtigen Imperative der Werbung; die Selbstvermarktung; den Verlust sprachlicher Sensibilität; den vorauseilenden Gehorsam von Universitätslehrern gegenüber den Diktaten einer kommerz­orientierten Auftragsforschung; das unreflektierte Hinnehmen einer auf alles aufgepfropften Betriebswirtschaftslehre, die Begriffe wie »Geschäftsmodell« oder »Content-Industrie« als Münzen in Umlauf gebracht hat, mit denen nun jedermann meint zahlen zu müssen. Und sie läßt die aktuelle Urheberrechtsdebatte als Symptom einer Krise verstehen: In einer Epoche, deren hervorstechendes Merkmal die Geistlosigkeit ist, wird produktive Subjektivität in die Defensive gedrängt. Für jede Art von Fortschritt bleibt diese Subjektivität gleichwohl unabdingbar.
+
+aka Roland Reuß</dc:description>
+        <dc:identifier opf:scheme="ARG">546cf6fb334fe07054a4df15</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Roland Reuss&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:15.554749+00:00" name="calibre:timestamp"/>
+        <meta content="Ende der Hypnose: Vom Netz und zum Buch" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

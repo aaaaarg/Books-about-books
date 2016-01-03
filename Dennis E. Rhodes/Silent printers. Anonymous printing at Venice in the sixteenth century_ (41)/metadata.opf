@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7dad3a1d-42f7-45c7-8182-760d7c3fb783</dc:identifier>
+        <dc:title>Silent printers. Anonymous printing at Venice in the sixteenth century.</dc:title>
+        <dc:creator opf:file-as="Rhodes, Dennis, E., ," opf:role="aut">Dennis E. Rhodes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:46+00:00</dc:date>
+        <dc:description>In this study a leading expert on the history of the early Italian book examines a perplexing and intractable problem that faces historical bibliographers - the identification of anonymous printing. Venice quickly became one of the major publishing centres of Renaissance Europe, serviced by innumerable printers. While the products of many of the presses are easily identified today, many of the surviving books offer little or no evidence as to their origins. Their title-pages may simply state "Venetiis" or "in Venetia"; the name of the publisher or bookseller may be given, but not the printer; or no information may be given at all. In such instances the bibliographer must make an identification by comparing the anonymously printed volume with known examples of a printer's work. This often proves difficult, since in Venice there was a great deal of interloaning of initials, devices and other materials between printers, who seem often to have been friends rather than rivals. Occasionally it is nearly impossible to be certain to whom a particular device really belonged. Despite these and other problems, Dennis Rhodes has succeeded in establishing the identity of the anonymous printers of over 250 different volumes in the British Library's collections. Each volume is fully described, and 150 black and white photographs of type ornaments and other identifying features are included.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec1116d0e00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Dennis E. Rhodes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:15.602788+00:00" name="calibre:timestamp"/>
+        <meta content="Silent printers. Anonymous printing at Venice in the sixteenth century." name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

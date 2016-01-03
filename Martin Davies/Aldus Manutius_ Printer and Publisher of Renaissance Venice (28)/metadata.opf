@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d94ad3d1-3ab9-4f06-a72b-2fb440167f8a</dc:identifier>
+        <dc:title>Aldus Manutius: Printer and Publisher of Renaissance Venice</dc:title>
+        <dc:creator opf:file-as="Davies, Martin, , ," opf:role="aut">Martin Davies</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:33+00:00</dc:date>
+        <dc:description>Aldus Manutius (1449-1515) was a member of the Manuzio family, founders of the Aldine Press. Under his direction, the press undertook a vast program of making the written remains of Greek antiquity widely and systematically available to the scholarly public of Renaissance Europe. In addition, Aldus printed many Latin and Italian texts in cheaper formats in the famous Aldine italic typeface. In commemoration of the quincentenary of Aldus's first publication, this study, copublished with the British Library, introduces the "prince of printers" in his various guises--as scholar, businessman, editor, and typographer. The beautifully reproduced illustrations are drawn largely from Aldines in the unrivaled collection of the British Library.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec1116a0e00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Martin Davies&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:14.032035+00:00" name="calibre:timestamp"/>
+        <meta content="Aldus Manutius: Printer and Publisher of Renaissance Venice" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

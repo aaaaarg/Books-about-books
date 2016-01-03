@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b333cfb-e2d4-4d0d-9e0d-ff4bd8b9cd5e</dc:identifier>
+        <dc:title>Creating Commons: Divided Governance, Participatory Management, and Struggles Against Enclosure in the University</dc:title>
+        <dc:creator opf:file-as="Meyerhoff, Isaac, Kamola and Eli, ," opf:role="aut">Isaac Kamola</dc:creator>
+        <dc:creator opf:file-as="Meyerhoff, Isaac, Kamola and Eli, ," opf:role="aut">Eli Meyerhoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:20:01+00:00</dc:date>
+        <dc:description>Isaac Kamola and Eli Meyerhoff. “Creating Commons: Divided Governance, Participatory Management, and Struggles Against Enclosure in the University,” Polygraph Journal 21 (2009).
+
+(from the intro):  
+"It has been widely recognized that the contemporary University  
+is now, maybe more than ever, integrated into capitalist cir-  
+cuits of production.1 Critics often characterize this develop-  
+ment in terms of “the corporatization of the University” and  
+identify the rapidly expanding administrative class as capital’s  
+key facilitator in the colonization of higher education.2 This  
+narrative of the University as a “public good” besieged by cor-  
+porate capital and its administrative handmaiden is a fairly  
+common way of describing the contemporary state of higher  
+education. While the claim that “the Administration” is di-  
+rectly complicit with the corporatization of higher education  
+carries a lot of weight, these arguments—and the political  
+struggles drawn from them—often ignore the ways in which  
+capital’s management of the University has diversified far be-  
+yond the administration. Today, the project of transforming  
+the University for the purposes of capitalist accumulation  
+does not rest solely on the shoulders of university administra-  
+tion but increasingly depends upon the active participation of  
+undergraduate and graduate students, tenured, non-tenured  
+and adjunct faculty, and staff. Failure to recognize the par-  
+ticipatory management of the University means that anti-  
+capitalist, pro-labor and social justice activists often ignore  
+the frontline of capital’s takeover of the University—namely,  
+where University becomes integrated with capital’s value prac-  
+tices. We argue that political analyses and strategies focusing  
+on “the Administration” as the fixed, identifiable location of  
+capital’s intensification in higher education have allowed anti-  
+capitalist struggles within the University to be outflanked by  
+capital’s strategies of participatory management. 
+
+Our paper moves away from the narrative of a struggle  
+between “the Administration” and a group of students, faculty, and staff defend-  
+ing the University against the corporations. Such a narrative not only presents the  
+administration as the sole transformative force within higher education but also  
+entrusts the resistance to corporatization to a besieged group of campus activists.  
+While it might be a useful short-term mobilizing strategy, the “corporatization of  
+the University” narrative can only conceptualize anti-capitalist struggles within the  
+University as defensive.  
+This paper, in contrast, recasts the corporatization narrative (and its resistances)  
+as an ongoing struggle between productions of enclosure and commons. Commons  
+are those things held collectively and used according to the non-capitalist value  
+practices of a given group. Enclosure, contradistinctly, is a strategy of forcibly incor-  
+porating the commons into capitalist production and circulation. Enclosure of the  
+University takes place when the living laborers who organize themselves in groups  
+that teach, learn, research, administer, clean, service, and organize are denied con-  
+trol of, and are separated from, the resources necessary for their activity. Today the  
+separation of living labor from control over production is not simply imposed by  
+the administration on behalf of corporate interests but is co-produced through a  
+strategy of enclosure called participatory management. This strategy is deployed at a  
+time when the University is becoming an increasingly important site of immaterial  
+production. ..."</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584186c3a0ed90ba90d00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Eli Meyerhoff&quot;: &quot;&quot;, &quot;Isaac Kamola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:15.364699+00:00" name="calibre:timestamp"/>
+        <meta content="Creating Commons: Divided Governance, Participatory Management, and Struggles Against Enclosure in the University" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

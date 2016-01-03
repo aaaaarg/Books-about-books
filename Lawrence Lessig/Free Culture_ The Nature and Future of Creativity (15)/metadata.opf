@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6def769e-b12f-49cf-a3ab-301a0cf90370</dc:identifier>
+        <dc:title>Free Culture: The Nature and Future of Creativity</dc:title>
+        <dc:creator opf:file-as="Lessig, Lawrence, , ," opf:role="aut">Lawrence Lessig</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:20:00+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">51c584186c3a0ed90b360c00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Lawrence Lessig&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:12.427516+00:00" name="calibre:timestamp"/>
+        <meta content="Free Culture: The Nature and Future of Creativity" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

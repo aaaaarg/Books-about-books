@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c344f93f-0637-4ff0-8e51-7ec5359e25c6</dc:identifier>
+        <dc:title>Learning and the Market Place: Essays in the History of the Early Modern Book (Library of the Written Word Volume 9 the Handpress World Volume 6)</dc:title>
+        <dc:creator opf:file-as="Maclean, Ian, , ," opf:role="aut">Ian Maclean</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:38+00:00</dc:date>
+        <dc:description>This collection of essays examines the operation of the market for learned books in Early Modern Europe through a series of case studies. After an overview of general market conditions, issues raised by the transmission of knowledge and the economics of the book trade are addressed. These include the selection of copy, the role of legal and religious controls in the production and diffusion of texts, the paths open to authors to achieve publication, the finances and interaction of publishing houses, the margins of the European book trade in England and Portugal, and the development of bibliographical tools to assist purchasers in their pursuit of scholarly works.</dc:description>
+        <dc:identifier opf:scheme="ARG">5253e7b43078880262000001</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ian Maclean&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:10.109356+00:00" name="calibre:timestamp"/>
+        <meta content="Learning and the Market Place: Essays in the History of the Early Modern Book (Library of the Written Word Volume 9 the Handpress World Volume 6)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

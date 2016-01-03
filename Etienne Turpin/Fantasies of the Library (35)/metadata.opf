@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29394ce8-9b1a-4595-abdb-e1c4c871a5be</dc:identifier>
+        <dc:title>Fantasies of the Library</dc:title>
+        <dc:creator opf:file-as="Turpin, Etienne, , ," opf:role="aut">Etienne Turpin</dc:creator>
+        <dc:creator opf:file-as="Turpin, Etienne, , ," opf:role="aut">Anna-Sophie Springer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:18+00:00</dc:date>
+        <dc:description>… wherein the book-as-exhibition viewer learns, rather surprisingly—but with growing conviction—that the library is not only a curatorial space, but that its bibliographic imaginary is also a fertile territory for the exploration of paginated affairs of the Anthropocene.
+
+With contributions by Kirsten Einfeldt, Adam Hyde, Erin Kissane, Hammad Nasar, Megan Shaw Prelinger, Rick Prelinger, Anna-Sophie Springer, Charles Stankievech, Etienne Turpin, Andrew Norman Wilson, Daniela Wolf, and Joanna Zylinska.
+
+Berlin: K. Verlag &amp; Haus der Kulturen der Welt, January 2015.</dc:description>
+        <dc:identifier opf:scheme="ARG">54dcbfc4334fe00ccdaf1df3</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Anna-Sophie Springer&quot;: &quot;&quot;, &quot;Etienne Turpin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:14.921105+00:00" name="calibre:timestamp"/>
+        <meta content="Fantasies of the Library" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

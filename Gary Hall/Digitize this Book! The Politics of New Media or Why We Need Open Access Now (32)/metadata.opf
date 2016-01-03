@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90c78384-c68f-47a6-a4ce-c75c9d1ee019</dc:identifier>
+        <dc:title>Digitize this Book! The Politics of New Media or Why We Need Open Access Now</dc:title>
+        <dc:creator opf:file-as="Hall, Gary, , ," opf:role="aut">Gary Hall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:58+00:00</dc:date>
+        <dc:description>How open access can transform academia for the better.
+
+In the sciences, the merits and ramifications of open access—the electronic publishing model that gives readers free, irrevocable, worldwide, and perpetual access to research—have been vigorously debated. Open access is now increasingly proposed as a valid means of both disseminating knowledge and career advancement. In Digitize This Book! Gary Hall presents a timely and ambitious polemic on the potential that open access publishing has to transform both “papercentric” humanities scholarship and the institution of the university itself.
+
+Hall, a pioneer in open access publishing in the humanities, explores the new possibilities that digital media have for creatively and productively blurring the boundaries that separate not just disciplinary fields but also authors from readers. Hall focuses specifically on how open access publishing and archiving can revitalize the field of cultural studies by making it easier to rethink academia and its institutions. At the same time, by unsettling the processes and categories of scholarship, open access raises broader questions about the role of the university as a whole, forcefully challenging both its established identity as an elite ivory tower and its more recent reinvention under the tenets of neoliberalism as knowledge factory and profit center.
+
+Rigorously interrogating the intellectual, political, and ethical implications of open access, Digitize This Book! is a radical call for democratizing access to knowledge and transforming the structures of academic and institutional authority and legitimacy.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584176c3a0ed90ba40600</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Gary Hall&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:14.679607+00:00" name="calibre:timestamp"/>
+        <meta content="Digitize this Book! The Politics of New Media or Why We Need Open Access Now" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8972a590-ad0f-4f2f-96a1-7f4065e768dc</dc:identifier>
+        <dc:title>From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts</dc:title>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Marc de Bruijn</dc:creator>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Liz Castro</dc:creator>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Florian Cramer</dc:creator>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Joost Kircz</dc:creator>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Silvio Lorusso</dc:creator>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Michael Murtaugh</dc:creator>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Pia Pol</dc:creator>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Miriam Rasch</dc:creator>
+        <dc:creator opf:file-as="de Bruijn, Marc, , ," opf:role="aut">Margreet Riphagen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:20+00:00</dc:date>
+        <dc:description>This Toolkit is meant for everyone working in art and design publishing. No specific expertise of digital technology, or indeed traditional publishing technology, is required. The Toolkit provides hands-on practical advice and tools, focusing on working solutions for low-budget, small-edition publishing.
+
+Everything in the Hybrid Publishing Toolkit is based on real-world projects with art and design publishers. Editorial scenarios include art and design catalogues and periodicals, research publications, and artists’/designer’s books.</dc:description>
+        <dc:identifier opf:scheme="ARG">5528f079334fe041caaf1ec3</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Marc de Bruijn&quot;: &quot;&quot;, &quot;Liz Castro&quot;: &quot;&quot;, &quot;Pia Pol&quot;: &quot;&quot;, &quot;Joost Kircz&quot;: &quot;&quot;, &quot;Silvio Lorusso&quot;: &quot;&quot;, &quot;Margreet Riphagen&quot;: &quot;&quot;, &quot;Miriam Rasch&quot;: &quot;&quot;, &quot;Michael Murtaugh&quot;: &quot;&quot;, &quot;Florian Cramer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:12.350852+00:00" name="calibre:timestamp"/>
+        <meta content="From Print to Ebooks: a Hybrid Publishing Toolkit for the Arts" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

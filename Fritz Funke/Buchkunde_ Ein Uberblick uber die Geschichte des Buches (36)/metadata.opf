@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dcd3dc2-849f-4650-b9a2-e9f7150687b2</dc:identifier>
+        <dc:title>Buchkunde: Ein Überblick über die Geschichte des Buches</dc:title>
+        <dc:creator opf:file-as="Funke, Fritz, , ," opf:role="aut">Fritz Funke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:20:08+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">568549549ff37c0932bcfb13</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Fritz Funke&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:15.015001+00:00" name="calibre:timestamp"/>
+        <meta content="Buchkunde: Ein Überblick über die Geschichte des Buches" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

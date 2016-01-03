@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8c9f1e8-6d58-4a32-87fc-a7e430a67ec3</dc:identifier>
+        <dc:title>Uncreative writing : managing language in the digital age</dc:title>
+        <dc:creator opf:file-as="Goldsmith, Kenneth, , ," opf:role="aut">Kenneth Goldsmith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:26+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">5295e25b3078883031000077</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Kenneth Goldsmith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:16.863307+00:00" name="calibre:timestamp"/>
+        <meta content="Uncreative writing : managing language in the digital age" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b13214da-3471-4f21-9929-5d79339a5205</dc:identifier>
+        <dc:title>A Publication Taxonomy</dc:title>
+        <dc:creator opf:file-as="Worthington, Simon, , ," opf:role="aut">Simon Worthington</dc:creator>
+        <dc:creator opf:file-as="Worthington, Simon, , ," opf:role="aut">Christina Kral</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:23+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">52e4e26d3078883764000015</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Simon Worthington&quot;: &quot;&quot;, &quot;Christina Kral&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:13.946854+00:00" name="calibre:timestamp"/>
+        <meta content="Publication Taxonomy, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

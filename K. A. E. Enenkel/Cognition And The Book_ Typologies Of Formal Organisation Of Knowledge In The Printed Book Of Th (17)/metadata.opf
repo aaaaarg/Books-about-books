@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af55fe51-93a4-4643-8d0e-d65427a9d574</dc:identifier>
+        <dc:title>Cognition And The Book: Typologies Of Formal Organisation Of Knowledge In The Printed Book Of The Early Modern Period</dc:title>
+        <dc:creator opf:file-as="Neuber, K., A. E. Enenkel and Wolfgang, ," opf:role="aut">K. A. E. Enenkel</dc:creator>
+        <dc:creator opf:file-as="Neuber, K., A. E. Enenkel and Wolfgang, ," opf:role="aut">Wolfgang Neuber</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:40+00:00</dc:date>
+        <dc:description>641 pages | Brill Academic Publishers (January 30, 2005) | 9004124500 | PDF | 20 Mb
+
+The printed book, the most important invention of the Early Modern Period, brought about not only an explosion of knowledge, but also major changes in the perception of texts. This volume investigates the methods by which knowledge was presented to the early modern reader and the organisation of material that guided his cognition of them. It focuses not merely on book-historical questions, but on the intersection of layout and paratexts with issues of genre, content and intended function of texts. A team of experts in various disciplines, English, French, German, Neo-Latin, philosophy, art history, the history of science and book history, makes a first effort to understanding this fascinating topic.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec111620d00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Wolfgang Neuber&quot;: &quot;&quot;, &quot;K. A. E. Enenkel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:12.562903+00:00" name="calibre:timestamp"/>
+        <meta content="Cognition And The Book: Typologies Of Formal Organisation Of Knowledge In The Printed Book Of The Early Modern Period" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

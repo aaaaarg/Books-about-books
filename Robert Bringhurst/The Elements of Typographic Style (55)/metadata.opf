@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f1b94b2-63b9-4ae8-b22e-3d609f12cab6</dc:identifier>
+        <dc:title>The Elements of Typographic Style</dc:title>
+        <dc:creator opf:file-as="Bringhurst, Robert, , ," opf:role="aut">Robert Bringhurst</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:32+00:00</dc:date>
+        <dc:description>350 pages | Hartley &amp; Marks Publishers; 2nd edition (2002) | 978-0881791327 | PDF
+
+Renowned typographer and poet Robert Bringhurst brings clarity to the art of typography with this masterful style guide. Combining the practical, theoretical, and historical, this edition is completely updated, with a thorough exploration of the newest innovations in intelligent font technology, and is a must-have for graphic artists, editors, or anyone working with the printed page using digital or traditional methods.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec111760d00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Robert Bringhurst&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:17.093350+00:00" name="calibre:timestamp"/>
+        <meta content="Elements of Typographic Style, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

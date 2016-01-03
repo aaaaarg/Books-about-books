@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f986168-408d-4313-918d-8be098883729</dc:identifier>
+        <dc:title>The Late Age of Print: Everyday Book Culture from Consumerism to Control</dc:title>
+        <dc:creator opf:file-as="Striphas, Ted, , ," opf:role="aut">Ted Striphas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:50+00:00</dc:date>
+        <dc:description>Ted Striphas argues that, although the production and propagation of books have undoubtedly entered a new phase, printed works are still very much a part of our everyday lives. With examples from trade journals, news media, films, advertisements, and a host of other commercial and scholarly materials, Striphas tells a story of modern publishing that proves, even in a rapidly digitizing world, books are anything but dead.
+
+From the rise of retail superstores to Oprah's phenomenal reach, Striphas tracks the methods through which the book industry has adapted (or has failed to adapt) to rapid changes in twentieth-century print culture. Barnes &amp; Noble, Borders, and Amazon.com have established new routes of traffic in and around books, and pop sensations like Harry Potter and the Oprah Book Club have inspired the kind of brand loyalty that could only make advertisers swoon. At the same time, advances in digital technology have presented the book industry with extraordinary threats and unique opportunities.
+
+Striphas's provocative analysis offers a counternarrative to those who either triumphantly declare the end of printed books or deeply mourn their passing. With wit and brilliant insight, he isolates the invisible processes through which books have come to mediate our social interactions and influence our habits of consumption, integrating themselves into our routines and intellects like never before.</dc:description>
+        <dc:identifier opf:scheme="ARG">51e92e8e307888b30c000136</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ted Striphas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:16.975033+00:00" name="calibre:timestamp"/>
+        <meta content="Late Age of Print: Everyday Book Culture from Consumerism to Control, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

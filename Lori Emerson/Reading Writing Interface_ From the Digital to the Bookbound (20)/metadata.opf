@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd8eef4e-adbf-4660-bee2-6024aede0d00</dc:identifier>
+        <dc:title>Reading Writing Interface: From the Digital to the Bookbound</dc:title>
+        <dc:creator opf:file-as="Emerson, Lori, , ," opf:role="aut">Lori Emerson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:27+00:00</dc:date>
+        <dc:description>Lori Emerson examines how interfaces—from today’s multitouch devices to yesterday’s desktops, from typewriters to Emily Dickinson’s self-bound fascicle volumes—mediate between writer and text as well as between writer and reader. Following the threads of experimental writing from the present into the past, she shows how writers have long tested and transgressed technological boundaries.
+
+Reading the means of production as well as the creative works they produce, Emerson demonstrates that technologies are more than mere tools and that the interface is not a neutral border between writer and machine but is in fact a collaborative creative space. Reading Writing Interfaces begins with digital literature’s defiance of the alleged invisibility of ubiquitous computing and multitouch in the early twenty-first century and then looks back at the ideology of the user-friendly graphical user interface that emerged along with the Apple Macintosh computer of the 1980s. She considers poetic experiments with and against the strictures of the typewriter in the 1960s and 1970s and takes a fresh look at Emily Dickinson’s self-printing projects as a challenge to the coherence of the book.
+
+Through archival research, Emerson offers examples of how literary engagements with screen-based and print-based technologies have transformed reading and writing. She reveals the ways in which writers—from Emily Dickinson to Jason Nelson and Judd Morrissey—work with and against media interfaces to undermine the assumed transparency of conventional literary practice.</dc:description>
+        <dc:identifier opf:scheme="ARG">5429ba34334fe01770629a56</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Lori Emerson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:13.049775+00:00" name="calibre:timestamp"/>
+        <meta content="Reading Writing Interface: From the Digital to the Bookbound" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

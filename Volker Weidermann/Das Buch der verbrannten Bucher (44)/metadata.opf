@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51e16625-e84a-49d9-bf4a-aed138102055</dc:identifier>
+        <dc:title>Das Buch der verbrannten Bücher</dc:title>
+        <dc:creator opf:file-as="Weidermann, Volker, , ," opf:role="aut">Volker Weidermann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:20:05+00:00</dc:date>
+        <dc:description>Klappentext
+Es wurde angekündigt als "Aktion wider den undeutschen Geist": Die akribische landesweite Vorbereitung gipfelte am 10. Mai 1933 in der Errichtung von Scheiterhaufen in vielen deutschen Städten, auf die dann Studenten, Bibliothekare, Professoren und SA-Leute in einer gespenstischen Feierstunde die Bücher warfen, die nicht mit ihrer menschenverachtenden Ideologie vereinbar waren. Unvergessen die Tonbandmitschnitte, die dokumentieren, wie Joseph Goebbels auf dem Platz neben der Berliner Staatsoper mit den Worten "Und wir übergeben den Flammen die Werke von ..." die einzelnen Autoren aufrief, von denen einige sogar anwesend waren.
+Volker Weidermann erzählt, wie dieser Tag verlief, an dem es trotzig regnete, er erzählt von dem Bibliothekar Herrmann, der die Urliste aller Listen erstellte, nach denen dann die Scheiterhaufen bedient wurden, und er erzählt von den Werken und ihren Autoren - und davon, wie willfährige Buchhändler und Bibliothekare die Bücher aus ihren Regalen entfernten, so gründlich, dass viele Werke und Autoren danach nicht wieder zum Vorschein kamen. Das Ergebnis sind über 100 Lebens- und Werkgeschichten von Schriftstellern, darunter neben Klassikern wie Kästner, Tucholsky, Zweig, Brecht und Remarque auch völlig vergessene wie Rudolf Braune, ausländische Autoren wie Ernest Hemingway, und sehr viele, wie z.B. Hermann Essig, die unbedingt wiedergelesen werden sollten.
+
+Rezensionsnotiz zu Die Tageszeitung, 05.05.2008
+Für Ansgar Warner bedeutet die neue literarische Entdeckungslust, die ein Buch wie dasjenige Volker Weidermanns an den Tag legt, einen Paradigmenwechsel. Die Historisierung der Nachkriegsliteratur spielt für Warner diesbezüglich eine Rolle. Und auch, wie Weidermann in seinem Buch "Bekanntes und Unbekanntes kombiniert". Warners Freude angesichts des Bandes ist umfassend. Was durch die Schwarzen Listen der Nazis alles verloren ging, Grete Weiskopf, ein "deutsches Fräuleinwunder", Hermann Essig, ein "schwäbischer Theaterkönig" - für Warner ist es hier wiederzuentdecken. Die Überfälligkeit solcher Erinnerung indessen, das lehrt den Rezensenten die Lektüre, ist dem Selbstverständnis und der Gedächtnisleistung der Nachkriegskultur zu verdanken.
+
+Rezensionsnotiz zu Süddeutsche Zeitung, 25.04.2008
+Ein wenig laut erscheint Florian Kessler dieses Buch schon. Wenn Volker Weidermann ausholt, um 131 Autoren zu porträtieren, deren Werke von den Nazis verbrannt wurden, so warnt er uns, geht's "schmissig" zu. Halb so schlimm, findet Kessler jedoch und sieht den Affront, solcherart "dröhnend" unterschiedlichste Werkästhetiken zusammen zu schauen, schrumpfen angesichts des Verdienstes, kanonisierte und wenig bekannte beziehungsweise vergessene Autoren gleichberechtigt nebeneinander zu stellen. Mit dem Effekt nämlich, wie Kessler anerkennend erkennt, die "grundsätzliche Stoßrichtung" der Bücherverbrennungen zu verdeutlichen und eine ganze literarische Epoche auferstehen zu lassen.
+
+Rezensionsnotiz zu Frankfurter Rundschau, 10.04.2008
+Volker Weidermanns Buch über die Opfer der nationalsozialistischen Bücherverbrennung hat Rezensent Michael Braun nicht wirklich überzeugt. Das Unternehmen des Autors, in Kurzporträts alle 131 Dichter vorzustellen, die auf der ersten Schwarzen Liste des angeblich so "zersetzenden Schrifttums" standen, scheint ihm ein "kühnes Vorhaben", das Erwartungen weckt, die der Band zu seinem Bedauern dann nicht erfüllt. Die Porträts wertet Braun als "überpointierte Grobskizzen", die zwar verlässliche "Grundinformationen" böten, über Lexikonwissen aber nicht wirklich hinausgingen. Den Erkenntnisgewinn dieser Skizzen hält er insgesamt für eher gering. Zudem nerven ihn die zahlreichen ausgebreiteten Allgemeinplätze und der zum Pathos neigende Stil des Autors.</dc:description>
+        <dc:identifier opf:scheme="ARG">565d691d9ff37c05dbfd51fa</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Volker Weidermann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:16.233028+00:00" name="calibre:timestamp"/>
+        <meta content="Das Buch der verbrannten Bücher" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

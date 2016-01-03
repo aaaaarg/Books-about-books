@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2591fb36-e8ba-4767-8e9d-40b3118a4292</dc:identifier>
+        <dc:title>Alternative libraries as discursive formations : reclaiming the voice of the deaccessioned book</dc:title>
+        <dc:creator opf:file-as="others, Gary, P. Radford and 2, ," opf:role="aut">Gary P. Radford</dc:creator>
+        <dc:creator opf:file-as="others, Gary, P. Radford and 2, ," opf:role="aut">2 others</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:24+00:00</dc:date>
+        <dc:description>from *Journal of Documentation*, 2012, Vol. 68 Iss: 2, pp.254—267
+
+**Abstract**
+
+**Purpose** – Deaccessioning, the deliberate culling, disposing, or selling of books from a collection, is one of the most controversial aspects of the collection development function of the library. This article aims to examine what can become of this universe of deaccessioned books through a consideration of two alternative libraries, or libraries-which-are-not-libraries. The existence of such alternative libraries allows one to address questions such as: Can the value of a deaccessioned book be reclaimed and, if so, how? Do these books continue to have a voice and, if so, what is it possible for that voice to say?
+
+**Design/methodology/approach** – The themes are explored through the work of Michel Foucault, in particular the analyses of statements and discursive formations found in his book, The Archaeology of Knowledge.
+
+**Findings** – Foucault's work is found to offer a means by which to conceptualize and describe the place and value of deaccessioned books as they are reclaimed by the alternative library.
+
+**Originality/value** – What is new in this article is the consideration of books and other texts that are otherwise considered worthless by the institutions that deaccession them. The librarians and artists who bring these texts back to life say something unique about the value of texts in contemporary society.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0beb1000</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;2 others&quot;: &quot;&quot;, &quot;Gary P. Radford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:17.301781+00:00" name="calibre:timestamp"/>
+        <meta content="Alternative libraries as discursive formations : reclaiming the voice of the deaccessioned book" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

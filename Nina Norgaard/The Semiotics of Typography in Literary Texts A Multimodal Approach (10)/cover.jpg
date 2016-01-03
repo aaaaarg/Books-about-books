@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC
+"-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta>
+    <title>500 Internal Server Error</title>
+    <style type="text/css">
+    #powered_by {
+        margin-top: 20px;
+        border-top: 2px solid black;
+        font-style: italic;
+    }
+
+    #traceback {
+        color: red;
+    }
+    </style>
+</head>
+    <body>
+        <h2>500 Internal Server Error</h2>
+        <p>The server encountered an unexpected condition which prevented it from fulfilling the request.</p>
+        <pre id="traceback">Traceback (most recent call last):
+  File "/srv/http/pdfserver/venv2/local/lib/python2.7/site-packages/cherrypy/_cprequest.py", line 670, in respond
+    response.body = self.handler()
+  File "/srv/http/pdfserver/venv2/local/lib/python2.7/site-packages/cherrypy/lib/encoding.py", line 217, in __call__
+    self.body = self.oldhandler(*args, **kwargs)
+  File "/srv/http/pdfserver/venv2/local/lib/python2.7/site-packages/cherrypy/_cpdispatch.py", line 61, in __call__
+    return self.callable(*self.args, **self.kwargs)
+  File "pdfserver.beta.py", line 278, in default
+    return serve_file(PdfDerivative(pdf, args[0], PDF_ROOT, CACHE_DIR).get_image())
+  File "pdfserver.beta.py", line 163, in __init__
+    self.pdf = Pdf(self.get_path(pdfroot, pdf_dir))
+  File "pdfserver.beta.py", line 46, in __init__
+    self.meta = self.get_info()
+  File "pdfserver.beta.py", line 48, in get_info
+    out = subprocess.check_output(["pdfinfo", self.path])
+  File "/usr/lib/python2.7/subprocess.py", line 573, in check_output
+    raise CalledProcessError(retcode, cmd, output=output)
+CalledProcessError: Command '['pdfinfo', '']' returned non-zero exit status 1
+</pre>
+    <div id="powered_by">
+      <span>
+        Powered by <a href="http://www.cherrypy.org">CherryPy 3.7.0</a>
+      </span>
+    </div>
+    </body>
+</html>

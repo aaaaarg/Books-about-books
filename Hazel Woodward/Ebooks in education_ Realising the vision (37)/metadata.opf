@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04104ec1-5022-4b4b-8cca-559f5c975ba0</dc:identifier>
+        <dc:title>Ebooks in education: Realising the vision</dc:title>
+        <dc:creator opf:file-as="Woodward, Hazel, , ," opf:role="aut">Hazel Woodward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:20:05+00:00</dc:date>
+        <dc:description>Ebooks are coming of age in education, as this exciting collection commissioned by Jisc demonstrates. 
+
+Case studies, reflecting ebook success stories across the higher and further education sectors, include: An innovative app to encourage ebook take-up in a Welsh college; A partnership between a library and research centre to create open access monographs and midigraphs; Several examples of creative negotiations with ebook publishers.
+
+Insight chapters address hot topics in the ebook universe, including: The changing world of access to scholarly digital content in the mobile environment; The challenges faced by the library as online distance learning moves from margin to mainstream; How ebooks have the potential to meet a wide range of accessibility needs; Experimentation with ebooks as a shared service.
+
+This collection will provide inspiration and guidance to institutions as they develop projects and services to support students and researchers and will be of interest to library practitioners, publishers, ebook vendors, information professionals, teachers, lecturers and students. 
+
+Jisc, in collaboration with Ubiquity Press, is pleased to be making this publication available open access on a CC-BY licence.</dc:description>
+        <dc:identifier opf:scheme="ARG">56689f5d9ff37c6316d7c5fd</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Hazel Woodward&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:15.069905+00:00" name="calibre:timestamp"/>
+        <meta content="Ebooks in education: Realising the vision" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

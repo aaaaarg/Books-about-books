@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a4ef976-9789-48e6-a419-13312146ffcb</dc:identifier>
+        <dc:title>The Archaeology of Medieval Bookbinding</dc:title>
+        <dc:creator opf:file-as="Szirmai, J, A, ," opf:role="aut">J A Szirmai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:46+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0b0e1200</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;J A Szirmai&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:13.166017+00:00" name="calibre:timestamp"/>
+        <meta content="Archaeology of Medieval Bookbinding, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

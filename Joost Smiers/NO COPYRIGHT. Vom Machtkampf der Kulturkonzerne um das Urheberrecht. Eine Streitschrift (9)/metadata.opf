@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68526b9d-be52-4082-bd37-8ac7583771d9</dc:identifier>
+        <dc:title>NO COPYRIGHT. Vom Machtkampf der Kulturkonzerne um das Urheberrecht. Eine Streitschrift</dc:title>
+        <dc:creator opf:file-as="Smiers, Joost, , ," opf:role="aut">Joost Smiers</dc:creator>
+        <dc:creator opf:file-as="Smiers, Joost, , ," opf:role="aut">Marieke van Schijndel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:20:05+00:00</dc:date>
+        <dc:description>Welches System könnte - besser als das bestehende Urheberrecht - die Interessen zahlreicher Künstler ebenso wahren wie die der Allgemeinheit an einer gemeinfreien, öffentlichen Sphäre von Kreativität und Wissen?
+Diesen Fragen gehen die Autoren nach und plädieren in ihrem Buch für radikale Lösungen: die Abschaffung des Copyrights, eine gesamtgesellschaftliche Veränderungsstrategie und vor allem eine Regulierung der heutigen Marktverhältnisse. Es gilt einen Markt zuschaffen, der eine ganz spezifische Bedingung erfüllt: Es soll keine Kraft geben, die ihn beherrschen kann. Die Folge: Ein buntes, vielfältiges Szenario mit zahlreichen Akteuren, ohne Kontrollmonopole und Konzerngiganten.
+Smiers und van Schijndel führen aus, daß ein urheberrechtsloses System durchaus kommerziell funktionieren kann und zeigen u.a. wie dies auch für den Handel mit Informationen, Patenten, Medikamenten und Lebensmitteln gilt.
+Prof. Dr. Joost Smiers (geb. 1943) ist Politikwissenschaftler (Research Fellow) an der Forschungsstelle für Kunst und Ökonomie an der Kunsthochschule Utrecht (HKU). Er war Gastprofessor an der University of California Los Angeles (UCLA) und hält Vorträge in zahlreichen Ländern zu Themen der Entwicklung der Kulturindustrien, des geistigen Eigentums und der Gemeinfreiheit, des Wettbewerbsrechts im Kulturbereich, der Europäischen Kulturpolitik, der kulturellen Vielfalt und Identität. Zu seinen Publikationen zählen u. a. Arts under Pressure. Promoting Cultural Diversity in the Age of Globalisation, Unesco's Convention on the Protection and Promotion of the Diversity of Cultural Expressions. Making it Work und Artistic Expression in a Corporate World. Do we need monopolistic control?. Joost Smiers lebt in Amsterdam.
+
+»Es ist zu hoffen, dass dieses tollkühne Buch der festgefahrenen Debatte in Deutschland wieder neues Leben einhaucht.« Wolfgang Michal, der Freitag
+
+»Der Ansatz ist radikal: Das Urheberrecht gehört abgeschafft und zwar besser früher, als später, so das Credo v… Das klingt verrückt und utopisch, doch so abwegig ist der Gedanke nicht. Beiden gelingt es,  den Mythos "Urheberrecht" zumindest ansatzweise zu entzaubern. (...) Das Ganze ist schlüssig, engagiert und überzeugend geschrieben - und gleichzeitig ein Generalangriff gegen alle Konventionen.« Vera Linß, Deutschlandradio Kultur
+
+»Ein Buch, das jeder lesen sollte, der den Kulturkampf unserer Zeit verstehen will.« Knut Cordsen, Bayern 2 kulturWelt
+
+»Es macht durchaus Spaß, einmal ganz radikal ein Szenario ohne geistiges Eigentum zu durchdenken.« Florian Felix Weyh, Deutschlandfunk</dc:description>
+        <dc:identifier opf:scheme="ARG">565d67cb9ff37c05d8fd513e</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Joost Smiers&quot;: &quot;&quot;, &quot;Marieke van Schijndel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:10.891304+00:00" name="calibre:timestamp"/>
+        <meta content="NO COPYRIGHT. Vom Machtkampf der Kulturkonzerne um das Urheberrecht. Eine Streitschrift" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

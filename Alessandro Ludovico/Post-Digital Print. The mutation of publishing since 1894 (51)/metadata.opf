@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fed9622-5a22-412f-b850-4bf490eb1e2d</dc:identifier>
+        <dc:title>Post-Digital Print. The mutation of publishing since 1894</dc:title>
+        <dc:creator opf:file-as="Ludovico, Alessandro, , ," opf:role="aut">Alessandro Ludovico</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:37+00:00</dc:date>
+        <dc:description>In the post-digital age, digital technology is no longer revolutionary but a normality, everywhere. For music or film, circulation as bits and bytes, downloads and streams are no longer a big deal. But for the world of book and magazine publishing, change has just begun.
+
+New ways of networked and electronic publishing had been envisioned by avant-garde artists, activists and technologists for more than a century. Even though in hindsight the reports of the death of paper were greatly exaggerated, electronic publishing has now become a reality. How will analog and digital coexist in the post-digital age of publishing? How will they transition, mix and cross over?
+
+In this book, Alessandro Ludovico rereads the history of avant-garde arts as a prehistory of cutting through the opposites of paper and electronics. He covers, among others, artists’ books and manifests, zines, net art and experimental publishing projects, up to e-readers and print-on-demand.
+
+With an afterword by Florian Cramer  
+Published by the research center Creating 010, Hogeschool Rotterdam &amp; Onomatopee, Eindhoven, May 2012  
+Onomatopee 77: Cabinet Project  
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License  
+ISBN: 978-90-78454-87-8</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0b800b00</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Alessandro Ludovico&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:16.834409+00:00" name="calibre:timestamp"/>
+        <meta content="Post-Digital Print. The mutation of publishing since 1894" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

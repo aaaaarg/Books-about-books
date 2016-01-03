@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a250c282-398d-4c1a-8d8f-90c509dc0a2f</dc:identifier>
+        <dc:title>Paper Knowledge: Toward a Media History of Documents</dc:title>
+        <dc:creator opf:file-as="Gitelman, Lisa, , ," opf:role="aut">Lisa Gitelman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:21+00:00</dc:date>
+        <dc:description>Paper Knowledge is a book about the mundane: the library card, the promissory note, the movie ticket, the PDF (Portable Document Format). It is a media history of the document. Drawing examples from the 1870s, the 1930s, the 1960s, and today, Lisa Gitelman thinks across the media that the document form has come to inhabit over the last 150 years, including letterpress printing, typing and carbon paper, mimeograph, microfilm, offset printing, photocopying, and scanning. Whether examining late nineteenth century commercial, or “job” printing, or the Xerox machine and the role of reproduction in our understanding of the document, Gitelman reveals a keen eye for vernacular uses of technology. She tells nuanced, anecdote-filled stories of the waning of old technologies and the emergence of new. Along the way, she discusses documentary matters such as the relation between twentieth-century technological innovation and the management of paper, and the interdependence of computer programming and documentation. Paper Knowledge is destined to set a new agenda for media studies.</dc:description>
+        <dc:identifier opf:scheme="ARG">53de9998334fe05de35860d0</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Lisa Gitelman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:15.895862+00:00" name="calibre:timestamp"/>
+        <meta content="Paper Knowledge: Toward a Media History of Documents" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

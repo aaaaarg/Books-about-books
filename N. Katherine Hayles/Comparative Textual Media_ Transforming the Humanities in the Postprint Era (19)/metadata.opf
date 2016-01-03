@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af8901b8-f473-438a-a9e8-e8d99d6c2849</dc:identifier>
+        <dc:title>Comparative Textual Media: Transforming the Humanities in the Postprint Era</dc:title>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">N. Katherine Hayles</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Jessica Pressman</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Rita Raley</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Adriana de Souza e Silva</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Matthew G. Kirschenbaum</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Johanna Drucker</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">William A. Johnson</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Stephanie Boluk</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Patrick LeMieux</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Patricia Crain</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Lisa Gitelman</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Jessica Brantley</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Thomas Fulton</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">John David Zuern</dc:creator>
+        <dc:creator opf:file-as="Hayles, N., Katherine, ," opf:role="aut">Mark C. Marino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:17+00:00</dc:date>
+        <dc:description>Contents:
+Introduction. Making, Critique: A Media Framework by N. Katherine Hayles and Jessica Pressman
+**PART I. THEORIES**
+1 TXTual Practice by Rita Raley
+2 Mobile Narratives: Reading and Writing Urban Space with Location-Based Technologies by Adriana de Souza e Silva
+3 The .txtual Condition by Matthew G. Kirschenbaum
+4 From A to Screen by Johanna Drucker
+**PART II. PRACTICES**
+5 Bookrolls as Media by William A. Johnson
+6 Dwarven Epitaphs: Procedural Histories in Dwarf Fortress by Stephanie Boluk and Patrick LeMieux
+7 Reading Childishly? A Codicology of the Modern Self by Patricia Crain
+8 Print Culture (Other Than Codex): Job Printing and Its Importance by Lisa Gitelman
+**PART III. RECURSIONS**
+9 Medieval Remediations by Jessica Brantley
+10 Gilded Monuments: Shakespeare’s Sonnets, Donne’s Letters, and the Mediated Text by Thomas Fulton
+11 Reading Screens: Comparative Perspectives on Computational Poetics by John David Zuern
+12 Reading exquisite_code: Critical Code Studies of Literature by Mark C. Marino</dc:description>
+        <dc:identifier opf:scheme="ARG">5325fc89334fe05449923897</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;John David Zuern&quot;: &quot;&quot;, &quot;Jessica Pressman&quot;: &quot;&quot;, &quot;N. Katherine Hayles&quot;: &quot;&quot;, &quot;Lisa Gitelman&quot;: &quot;&quot;, &quot;William A. Johnson&quot;: &quot;&quot;, &quot;Patricia Crain&quot;: &quot;&quot;, &quot;Matthew G. Kirschenbaum&quot;: &quot;&quot;, &quot;Johanna Drucker&quot;: &quot;&quot;, &quot;Jessica Brantley&quot;: &quot;&quot;, &quot;Thomas Fulton&quot;: &quot;&quot;, &quot;Mark C. Marino&quot;: &quot;&quot;, &quot;Adriana de Souza e Silva&quot;: &quot;&quot;, &quot;Stephanie Boluk&quot;: &quot;&quot;, &quot;Rita Raley&quot;: &quot;&quot;, &quot;Patrick LeMieux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:12.870395+00:00" name="calibre:timestamp"/>
+        <meta content="Comparative Textual Media: Transforming the Humanities in the Postprint Era" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

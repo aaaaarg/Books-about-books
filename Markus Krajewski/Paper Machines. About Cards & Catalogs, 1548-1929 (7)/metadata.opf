@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a50e8a39-b535-4a12-8ed5-82c0eee6d5d9</dc:identifier>
+        <dc:title>Paper Machines. About Cards &amp; Catalogs, 1548–1929</dc:title>
+        <dc:creator opf:file-as="Krajewski, Markus, , ," opf:role="aut">Markus Krajewski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:22+00:00</dc:date>
+        <dc:description>Today, on just about every desk there is a gray box emitting a range of wires. 70 years ago, this data processing box was less conspicuous, non-electronic and made from wood—a literal paper machine. Notes &amp; Quotes explores the way this indexing ›machine‹ set out on its triumphant march, entering offices and orderly rooms around 1930 as a universal and crucial instrument for data processing, and eventually transmuting into the »Universal Machine« known as the computer. Notes &amp; Quotes follows the development of the index card along its various historical breaches, beginning with the first references to the indexing of knowledge in early modern times. The book examines the almost accidental introduction and gradual assertion of card index boxes in libraries around 1800 and glances at the production conditions of literature with the aid of index files, before suggesting a discursive transference between the institutions of writing, that is, libraries and offices. Among its protagonists are, e.g., Melvil Dewey, known as the father of the Decimal Classification System, or William Croswell, yet unknown as America’s laziest librarian, but inventor of Harvard College Library’s card catalog.</dc:description>
+        <dc:identifier opf:scheme="ARG">545ec2b7334fe009d8ba0888</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Markus Krajewski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:10.431288+00:00" name="calibre:timestamp"/>
+        <meta content="Paper Machines. About Cards &amp; Catalogs, 1548–1929" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9828b59e-c7c2-43f6-9e1d-326b7e99540a</dc:identifier>
+        <dc:title>Zur Sache des Buches</dc:title>
+        <dc:creator opf:file-as="Hagner, Michael, , ," opf:role="aut">Michael Hagner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-03T09:19:28+00:00</dc:date>
+        <dc:description>Klappentext
+Das gedruckte Buch galt lange Zeit unangefochten als das wichtigste Organ geisteswissenschaftlicher Forschung. Doch in den letzten Jahren ist ein ganzes Gefüge von Medien, Werten und Praktiken in Bewegung geraten. Mit den Möglichkeiten digitaler Forschung und Kommunikation sowie Forderungen nach einer Standardisierung von Publikationen wirkt das Schreiben und Drucken von Büchern bisweilen fast wie ein Anachronismus mit begrenzter Lebensdauer. Die Kritik am gedruckten Buch offenbart ein Stück Kulturkritik, die ihr Unbehagen an der Gegenwart mit einer übertriebenen Erwartung an die technischen Möglichkeiten des Digitalen verbindet. Anstatt die unterschiedlichen Stärken von Papier und Digitalisat hervorzuheben und zu fragen, wo mögliche Synergien liegen könnten, wird ein rivalisierender Gegensatz zwischen beiden postuliert, der eine Entscheidung verlangt.
+
+Rezensionsnotiz zu Neue Zürcher Zeitung, 18.03.2015
+Urs Hafner lobt sich dieses Buch des Wissenschaftshistorikers Michael Hagner. Gegen die Unkenrufe über den Tod des Buches an sich schon ein gutes Gegenargument, meint er. Was der Autor darin schreibt, lässt die vermeintlichen digitalen Verheerungen auf dem Buchmarkt sogar als Chance erscheinen, über das Publikationswesen kritisch nachzudenken, erklärt Hafner. Zwar geht es dem Autor vor allem um das geisteswissenschaftliche Publizieren, so der Rezensent, doch wird deutlich: Der Autor ist kein kulturkonservativer Rufer, er erkennt die Möglichkeiten des digitalen Lesens und Verwertens von Literatur. Aber er erklärt auch die Sackgasse des "Open Access" und erläutert detailliert die ökonomischen Bedingungen des wissenschaftlichen Publikationswesens in Deutschland, Frankreich und den USA. Wenn Hagner daraus eine kritische Bestandsaufnahme entwickelt, kann Hafner nur staunen. Vielleicht ist die Krise des Buches doch eher hausgemacht als Resultat der digitalen Revolution, denkt er.
+
+Rezensionsnotiz zu Die Zeit, 12.03.2015
+In Michael Hagners "Zur Sache des Buches" geht es um die Szene einer Erbschaft, berichtet Hans von Trotha. Wie der Rezensent erklärt, könnte die zentrale Frage des Buches ungefähr so lauten: Was kann die ältere Generation von Verlegern und Autoren geisteswissenschaftlicher Publikationen, die "Generation Suhrkamp", ihren Nachfolgern, der "Generation Facebook", über den besonderen Wert des Buches beibringen, damit dem von Marshall MacLuhan prophezeiten "Ende der Gutenberg-Galaxis" ein konservierendes Korrektiv entgegen gehalten werden kann? Die Frage wird allerdings nicht beantwortet, verrät von Trotha, aber dafür gibt es eine schöne, übersichtliche Zusammenfassung der Verlagspraxis der letzten Jahrzehnte in den Geisteswissenschaften, lobt der Rezensent.
+
+Rezensionsnotiz zu Frankfurter Allgemeine Zeitung, 07.03.2015
+Wie steht es um das Buch? Rezensent Jürgen Kaube informiert sich beim Wissenschaftshistoriker Michael Hagner und stellt fest, wie wenig er eigentlich über das Buch und damit konkurrierende Formate weiß. Auch wenn es dem Autor mit seiner Streitschrift wesentlich um geisteswissenschaftliches Publizieren geht, wie Kaube einräumt, empfiehlt der Rezensent die Lektüre allen an der Zukunft des Lesens Interessierten. Dass sich Hagner an den praktischen Eigenschaften des Buches orientiert und die Ideologien über das Ende des Buches außen vor lässt, findet Kaube gut. Richtig grantig wird der Autor aber dennoch, wenn er nämlich den Lobbyismus zwischen Wissenschaftsverlagen und Politik skizziert, meint Kaube.</dc:description>
+        <dc:identifier opf:scheme="ARG">5572d1a9334fe00c31b6693c</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Michael Hagner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-01-03T09:20:14.406078+00:00" name="calibre:timestamp"/>
+        <meta content="Zur Sache des Buches" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
